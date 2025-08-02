@@ -1,0 +1,163 @@
+Weapons:
+    1. Primary weapons
+        - Assault carbines
+            - 9A-91
+            - ADAR 2-15
+            - AVT-40
+            - OP-SKS
+            - RFB
+            - SAG AK
+            - SAG AK short
+            - SKS
+            - SR-3M
+            - SVT-40
+            - TX-15 DML
+            - VPO-101
+            - VPO-136
+            - VPO-209
+            - VSK-94
+        - Assault rifles
+            - AK-12
+            - AK-74
+            - AK-74M
+            - AK-74N
+            - AK-101
+            - AK-102
+            - AK-103
+            - AK-104
+            - AK-105
+            - AKM
+            - AKMN
+            - AKMS
+            - AKMSN
+            - AKS-74
+            - AKS-74N
+            - AKS-74U
+            - AKS-74UB
+            - AKS-74UN
+            - AS VAL
+            - Ash-12
+            - AUG A1
+            - AUG A3
+            - DT MDR 5.56x45
+            - DT MDR 7.62x51
+            - G36
+            - HK 416A5
+            - M4A1
+            - MCX
+            - MCX-SPEAR
+            - Mk47
+            - RD-704
+            - SA58
+            - SCAR-H
+            - SCAR-L
+            - Velociraptor
+        - Bolt-action rifles
+            - AXMC
+            - DVL-10
+            - M700
+            - Mosin Infantry
+            - Mosin Sniper
+            - SV-98
+            - T-5000M
+            - TRG M10
+            - VPO-215
+        - Designated marksman rifles
+            - AK-50
+            - G28
+            - M1A
+            - Mk-18
+            - RSASS
+            - SR-25
+            - SVDS
+            - VSS Vintorez
+        - Grenade launchers
+            - FN40GL
+            - M32A1
+        - Light machine guns
+            - M60E4
+            - M60E6
+            - PKM
+            - PKP
+            - RPD
+            - RPDN
+            - RPK-16
+        - Rocket launchers
+            - RShG-12
+        - Shotguns
+            - AA-12 Gen 1
+            - AA-12 Gen 2
+            - KS-23M
+            - M3 Super 90
+            - M590A1
+            - M870
+            - MP-18
+            - MP-43-1C
+            - MP-133
+            - MP-153
+            - MP-155
+            - MTs-255-12
+            - Saiga-12K
+            - Saiga-12K FA
+            - TOZ-106
+        - Submachine guns
+            - MP5
+            - MP5K-N
+            - MP7A1
+            - MP7A2
+            - MP9
+            - MP9-N
+            - MPX
+            - P90
+            - PP-9 Klin
+            - PP-19-01
+            - PP-91 Kedr
+            - PP-91-01 Kedr-B
+            - PPSh-41
+            - Saiga-9
+            - SR-2M
+            - STM-9
+            - UMP 45
+            - UZI
+            - UZI PRO Pistol
+            - UZI PRO SMG
+            - Vector .45
+            - Vector 9x19
+    2. Secondary weapons
+        - Pistols
+            - APB
+            - APS
+            - Blicky
+            - Desert Eagle L5 .357
+            - Desert Eagle L5 .50AE
+            - Desert Eagle L6
+            - Desert Eagle L6 (WTS)
+            - Desert Eagle Mk XIX
+            - FN-57
+            - Glock 17
+            - Glock 18C
+            - Glock 19X
+            - M9A3
+            - M45A1
+            - M1911A1
+            - MP-443 Grach
+            - P226R
+            - PB pistol
+            - PL-15
+            - PM (t) pistol
+            - PM pistol
+            - SR-1MP Gyurza
+            - TT pistol
+            - TT pistol (gold)
+            - USP .45
+        - Revolvers
+            - CR 50DS
+            - CR 200DS
+            - RSh-12
+        - Shotguns
+            - MP-43 sawed-off
+    3. Special weapons
+        - Handheld flares
+        - Signal pistols
+    4. Melee weapons
+    5. Throwable weapons
