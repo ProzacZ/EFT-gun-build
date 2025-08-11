@@ -210,3 +210,40 @@ Mods:
             SIG Sauer Vertical Foregrip KeyMod (Black)
             Daniel Defense Enhanced M-LOK Vertical Foregrip
             RTM Osovets P-2 tactical foregrip
+        Flashlights:
+            Armytek Predator Pro v3 XHP35 HI flashlight
+            Ultrafire WF-501B flashlight
+            Zenit 2D flashlight
+        Tactical combo devices:
+            B.E. Meyers MAWL-C1+ tactical device
+            Insight WMX200 tactical flashlight
+            Olight Baldr Pro tactical flashlight with laser
+            Wilcox RAPTAR ES Tactical Rangefinder
+            Zenit Perst-3 tactical device
+            Zenit Klesch-2IKS IR illuminator with laser
+            Zenit Klesch-2P flashlight with laser
+            Zenit Klesch-2U tactical flashlight
+            L3Harris AN/PEQ-15 tactical device
+            Glock GTL 21 tactical flashlight with laser
+            Holosun LS321 Tactical device
+            L3Harris LA-5B/PEQ tactical device
+            Steiner LAS/TAC 2 tactical flashlight
+            SureFire XC1 tactical flashlight
+            SureFire X400 Ultra tactical flashlight with laser
+            NcSTAR Tactical Blue Laser
+            Insight AN/PEQ-2 tactical device
+            Steiner DBAL-PL tactical device
+            TT DLP Tactical Precision Laser Sight
+        Auxilary parts:
+            Sako TRG M10 rear hook
+            FN SCAR PMM Rail Elimination Panels
+            Cyclone Shakhin scope eyecup
+            Armasight Zeus-Pro scope eyecup
+            KP-SR2 sight shade
+            HK G36 hand stop
+            MP-155 Ultima underbarrel mount
+            MP-155 Ultima pistol grip rubber pad
+            FAB Defense protection cap for AGR-870
+            NSPU-M scope eyecup
+            Armasight Vulcan MG scope eyecup
+            
