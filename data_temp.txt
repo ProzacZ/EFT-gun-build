@@ -204,4 +204,9 @@ Mods:
             RTM Pillau tactical foregrip
             RTM Pillau P-2 tactical foregrip (Red)
             MP9-N vertical foregrip
-            
+            ORSIS T-5000M padded handguard grip
+            Tactical Dynamics Skeletonized Foregrip
+            A3 Tactical MVF001 KeyMod vertical foregrip (Black)
+            SIG Sauer Vertical Foregrip KeyMod (Black)
+            Daniel Defense Enhanced M-LOK Vertical Foregrip
+            RTM Osovets P-2 tactical foregrip
