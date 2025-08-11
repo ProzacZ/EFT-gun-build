@@ -246,4 +246,38 @@ Mods:
             FAB Defense protection cap for AGR-870
             NSPU-M scope eyecup
             Armasight Vulcan MG scope eyecup
+            Axion Kobra sight shade
+        	PSO scope eyecup
+            Trijicon REAP-IR scope eyecup
+            SV-98 anti-heat ribbon
+        	SV-98 sound suppressor heat shield
+            Glock ZEV Tech sight mount cap
+            NPZ USP-1 scope eyecup
+            KMZ 1P59 scope eyecup
+            KAC URX 3/3.1 short panel
+            KAC URX 3/3.1 long panel
+            KAC URX 3/3.1 stopper panel
+            M1911A1 slide stop
+            M1911A1 hammer
+            M1911A1 trigger
+            M1911A1 Wilson Extended slide stop
+            M1911A1 Wilson Retro Commander hammer
+            M1911A1 STI HEX hammer
+            M1911A1 Wilson Ultralight skeletonized hammer
+            M1911A1 Caspian Arms Trik Trigger
+            M45A1 trigger
+            M45A1 hammer
+            M45A1 slide lock
+            STM-9 magwell
+            HK USP hammer
+            HK USP slide lock
+            HK USP trigger
+            NPZ 1P78 scope eyecup
+    Muzzle devices (Functional Mods):
+        Muzzle adapters:
+            Sako TRG .338 LM thread protector
+            Ase Utra BoreLock thread protector
+            AA-12 thread protector
+            AA-12 12ga choke
+            UZI PRO 9x19 barrel retaining nut
             
