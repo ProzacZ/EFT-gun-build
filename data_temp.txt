@@ -161,3 +161,47 @@ Weapons:
         - Signal pistols
     4. Melee weapons
     5. Throwable weapons
+
+Mods:
+    Functional Mods:
+        Bipods:
+            M60 Bipod
+            BT10 V8 Atlas Bipod
+            PK bipod
+            RPD bipod
+            HK G36 bipod
+            Harris S-BRM 6-9" Bipod
+            SV-98 bipod
+        Foregrips:
+            Sako TRG M10 grip pad
+            TangoDown Stubby BGV-QDK foregrip
+            TangoDown BGV-QDITI foregrip
+            BCM GUNFIGHTER MOD 3 M-LOK foregrip
+            SR-3M polymer foregrip
+            Steyr AUG vertical foregrip
+            AI AXMC padded handguard grip
+            HK Sturmgriff foregrip
+            Monstrum Tactical Vertical Fore Grip KeyMod
+            KAC vertical foregrip
+            BCM GUNFIGHTER MOD 3 vertical foregrip
+            Strike Industries Cobra Tactical foregrip
+            Magpul M-LOK AFG tactical foregrip
+            Hera Arms CQR tactical foregrip
+            Fortis Shift tactical foregrip
+            Magpul AFG tactical foregrip
+            Magpul RVG foregrip
+            Stark SE-5 Express Forward foregrip
+            TangoDown Stubby BGV-MK46K foregrip
+            Viking Tactics UVG tactical foregrip
+            Zenit RK-0 tactical foregrip
+            Zenit RK-1 tactical foregrip
+            Zenit RK-1 tactical foregrip on B-25U mount
+            Zenit RK-2 tactical foregrip
+            Zenit RK-4 tactical foregrip
+            Zenit RK-5 tactical foregrip
+            Zenit RK-6 tactical foregrip
+            ASh-12 vertical foregrip
+            RTM Pillau tactical foregrip
+            RTM Pillau P-2 tactical foregrip (Red)
+            MP9-N vertical foregrip
+            
